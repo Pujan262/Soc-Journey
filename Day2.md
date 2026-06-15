@@ -17,11 +17,13 @@ Examples: IP address, Routers
 
 4.Transport Layer – Layer 4
 
-The Transport layer breaks data into segments and ensures it arrives correctly from one side of the network to the other. TCP — reliable, checks everything arrived correctly UDP — fast, does not check, used for video calls and gaming
+The Transport layer breaks data into segments and ensures it arrives correctly from one side of the network to the other. 
+TCP — reliable, checks everything arrived correctly 
+UDP — fast, does not check, used for video calls and gaming
 
 5.Session Layer – Layer 5
 
-The Session layer opens, manages, and closes connections between two devices. It keeps the conversation alive as long as needed. Example: staying logged into your banking app Pratical banking app or website it log in as long as we nned and log out 
+The Session layer opens, manages, and closes connections between two devices. It keeps the conversation alive as long as needed. Example: staying logged into your banking app Pratical banking app or website it log in as long as we need and log out 
 
 6.Presentation Layer – Layer 6
 
