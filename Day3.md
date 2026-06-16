@@ -1,27 +1,27 @@
 Day 3 – IP addresses,Subnet and Ports
 
-1.IP Address
+1.IP Address -
 A unique address  assigned to devices on the network.There is two category of ip address-
 
--Public IP Address
+-Public IP Address -
 It is used to communicate outside the Local Area Network(LAN) over the internet.It’s ip address is typically assigned by the ISP provider.
 
-Private IP Address
+Private IP Address -
 It is used to comminucate within local area network.It enables devices such as, computer mobile and printer to exchange data internally.
 
 Private ip are those ip that are assigned to devices we own and without public ip address such as modem or router we cannot connect to internet.
 
 And there are two type of ip address
 
-Ipv4
+Ipv4 -
 -32bit numeric labels written in decimal format  allowing about 4.3billions address
 Decimal value is 0 to 15
 
-Ipv6
+Ipv6 -
 -128bit of alpha numeric labels written in hexadecimal format aloowing upto limitless number of unique ip address.
 Hexadeximal value  is 0 to 9 and A to F is 10 to 15
 
-2.Subnet Mask
+2.Subnet Mask -
 A subnet mask tell your device which part of the ip address is network and which part is host address.
 
 It is a 32bit number used in ipv4 netwroking that divides into two parts, the network and the host address
