@@ -35,7 +35,7 @@ Port22-SSH(Secure Shell)
 It is a protocol for connecting computer remotely securely,in a encryption channel.
 
 Port23-Telnet
-Teletype network is protol for connecting remote server, isn’t secured as ssh and anayone can etesdrop
+Teletype network is protocol for connecting remote server, isn’t secured as ssh and anyone can eyesdrop
 
 Port25-SMPT(Simple Mail Transfer Protocol)
 It is a protocol for sending email between mail server.
