@@ -1,6 +1,6 @@
 Day4 - Tcp vs Udp,Portscanning,Threeway handshake and wireshark practice
 
-1.TCP(Transmission Control Protocol)
+1.TCP(Transmission Control Protocol-
 It is a communicaton protocol that guarantees delivery of data between to devices.
 
 Reliable
@@ -8,10 +8,10 @@ Slow(Because it check everything)
 Usedfor(Website,email,filedownloads and banking)
 Example ports(80HTTP, 443HTTPS AND 23SSH)
 
-Three way handshake
+Three way handshake of TCP
 
 First step-The sender computer send the S-Y-N (Synchronise) message to receiver computer.
-Second Step-The Receiver computer will respond with S-Y-N ACK responding the message of send by the first computer or sender
+Second Step-The Receiver computer will respond with S-Y-N ACK responding the message send by the first computer or sender.
 Third Step-Then after S-Y-N ACK message is received by the sender the sender computer send the ACK received message to the receive computer.
 
 Once this done,finally data can be delivered.
