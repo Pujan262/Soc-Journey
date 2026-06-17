@@ -43,4 +43,3 @@ Answer each question in your own words like you did for Days 1, 2 and 3:
 •	What is a SYN flood attack?
 •	What is port scanning?
 •	What did you see in Wireshark when you filtered by tcp?
-<img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/387a2db9-16a0-416e-afe4-66088ded86f0" />
